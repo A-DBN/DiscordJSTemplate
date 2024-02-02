@@ -1,0 +1,13 @@
+{
+  "name": "discordjstemplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:A-DBN/DiscordJSTemplate.git",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "scripts": {
+    "start": "node deploy-commands.js && node ."
+  }
+}
